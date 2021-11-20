@@ -1,1 +1,1 @@
-# speedtest
+wget git.io/vpstest && bash vpstest
